@@ -12,3 +12,5 @@ Versions included:
 * RHEL 8.3
 * RHEL 8.4
 * RHEL 8.5
+
+Blog --> https://medium.com/@gmusumeci/how-to-deploy-a-red-hat-enterprise-linux-rhel-vm-in-azure-using-terraform-90f3d413c783
